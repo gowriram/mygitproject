@@ -3,4 +3,7 @@
   <groupId>com.codebind</groupId>
   <artifactId>maven-demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
+  <finalName>maven-demo</finalName>
+  </build>
 </project>
